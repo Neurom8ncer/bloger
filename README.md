@@ -1,0 +1,2 @@
+# bloger
+minimalist web page
